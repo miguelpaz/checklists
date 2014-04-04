@@ -17,3 +17,4 @@ Conceptos a revisar
 *	¿Ha definido como tarea permanente la de revisar la presencia del Sitio en Buscadores?
 *	¿Ha generado un sitemap.xml de los enlaces de su sitio? (http://www.sitemaps.org/es/)
 * ¿Revisa periódicamente el LOG (bitácora) del Sitio para identificar las palabras más utilizadas por los usuarios para acceder a su Sitio?
+* ¿Tiene disponible un mecanismo de analitica web en su sitio/plataforma? (Ej: google analitycs, piwik.org)

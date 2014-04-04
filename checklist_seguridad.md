@@ -25,5 +25,5 @@ En este documento se entrega una serie de elementos que deben ser revisados para
 *	¿Se han filtrado los ataques XSS?. Existen variadas librerias que filtran el ingreso de scripts por parte del usuario
 *	¿Se han tomado medidas para prevenir los ataques XSRF/CSRF?. Las acciones del usuario sobre el sitio web deben ser enviadas vía POST, además de enviar un secret token generado al momento de presentar el formulario web.
 *	¿En cuanto a la seguridad de CMS (Joomla, Wordpress, Drupal u otros): Se ha verificado que estén instalados los últimos parches de seguridad de estos sistemas?
-*	¿En cuanto a la seguridad Apache / IIS / NGINX u otros : Se ha verificado que estén instalados los últimos parches de seguridad de estos servidores y verificar que las versiones en producción sean su “versión estable”?
+*	En cuanto a la seguridad Apache / IIS / NGINX u otros : ¿Se ha verificado que estén instalados los últimos parches de seguridad de estos servidores y verificar que las versiones en producción sean su “versión estable”?
 *	¿Se han realizado respaldos de la base de datos en forma periódica o se han programado estos respaldos en tareas ?

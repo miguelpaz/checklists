@@ -9,7 +9,7 @@ En este repositorio se publicarán los siguientes temas:
 * Accesibilidad
 * Seguridad
 * Disponibilidad
-* Indexación en Buscadores (SEO)
+* Indexación en buscadores (SEO)
 
 
 ##### Unidad de modernización y gobierno digital - Versión 1.0

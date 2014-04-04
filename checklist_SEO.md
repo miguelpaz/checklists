@@ -18,4 +18,4 @@ Conceptos a revisar
 *	¿Ha generado un sitemap.xml de los enlaces de su sitio? (http://www.sitemaps.org/es/)
 * ¿Revisa periódicamente el LOG (bitácora) del Sitio para identificar las palabras más utilizadas por los usuarios para acceder a su Sitio?
 * ¿Tiene disponible un mecanismo de analítica web en su sitio/plataforma? (Ej: google analitycs, piwik.org)
-* ¿Ha revisado su portal con herramientas de optimización web? (ej: https://www.google.com/webmasters/tools/home?hl=en, www.bing.com/toolbox/webmaster‎)
+* ¿Ha revisado su portal con herramientas de optimización web? (ej: https://www.google.com/webmasters/tools/home?hl=en, http://www.bing.com/toolbox/webmaster/‎)

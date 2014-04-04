@@ -1,7 +1,7 @@
 Checklists
 ==========
 
-Listas de comprobación (Checklists), mediante las cuales se pueden verificar de manera rápida los elementos más importantes que debe cumplir un Sitio Web del gbierno ante determinados estándares o exigencias.
+Listas de comprobación (Checklists), mediante las cuales se pueden verificar de manera rápida los elementos más importantes que debe cumplir un Sitio Web del gobierno ante determinados estándares o exigencias.
 
 En este repositorio se publicarán los siguientes temas:
 
